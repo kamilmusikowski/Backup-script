@@ -1,4 +1,5 @@
 Backup Script
+
 Bash script for data backup from remote to local directory. Intended to use with cron.
 
 Features
