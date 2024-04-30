@@ -2,7 +2,7 @@
 
 
 Bash script for data backup from remote to local directory. Intended to use with cron.
-
+\n
 
 Features
 - Performs mirror backup from remote host using `rsync` over SSH. 
